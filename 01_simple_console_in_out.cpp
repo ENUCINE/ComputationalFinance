@@ -25,4 +25,9 @@ return 0; }
 
 // finally we must compile the to be an executable file
 
-//
+// coming back shortly!!!
+// after compilating you will see an exe file with same name as the source code but without the '.cpp'.
+// this can be moved to your desired destination and run independently.
+
+// when we work with executables we must be certain that the programme stays alive until the user
+// decides otherwise -> what happens if one enter a char or a double instead of an integer?
