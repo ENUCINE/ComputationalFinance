@@ -25,7 +25,7 @@ return 0; }
 
 // finally we must compile the to be an executable file
 
-// coming back shortly!!!
+// see https://code.visualstudio.com/docs/cpp/config-clang-mac
 // after compilating you will see an exe file with same name as the source code but without the '.cpp'.
 // this can be moved to your desired destination and run independently.
 
